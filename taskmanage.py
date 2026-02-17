@@ -1,3 +1,4 @@
+#task_manager_as_start
 tasks = []
 
 def show_tasks():
